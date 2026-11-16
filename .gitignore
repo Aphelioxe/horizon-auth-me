@@ -1,0 +1,5 @@
+*.hnmod
+*.lock
+target/
+.DS_Store
+Thumbs.db
